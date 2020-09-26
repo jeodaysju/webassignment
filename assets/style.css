@@ -1,0 +1,36 @@
+body {
+    background:  #efeee7;
+  }
+
+  .navbar-brand {
+    padding: 10px;
+    background: #51fdd8;
+  }
+  
+  .header {
+    height: 200px;
+    padding-top: 20px;
+    background: #cdcdcd;
+  }
+
+
+  h1 {
+    font-size: 40px;
+  }
+  
+  h3 {
+    font-size: 30px;
+  }
+
+  h5 {
+    font-size: 20px;
+  }
+
+.col-sm-8 {
+  padding: 10px;
+}
+
+.collapse {
+    padding: 10px;
+    background: #368876;
+}
